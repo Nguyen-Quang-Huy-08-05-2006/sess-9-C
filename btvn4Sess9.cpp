@@ -2,7 +2,7 @@
 int main(){
 	int arr;
 	int a,o;
-	while(0){
+	while(1000000){
 	printf("MENU \n \n1.nhap vao mang. \n2.hien thi mang. \n3.them phan tu. \n4.sua phan tu. \n5.xoa phan tu. \n6.thoat. \ncau tra loi cua ban: ");
 	scanf("%d",a);
 	switch(a){
