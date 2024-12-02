@@ -12,7 +12,7 @@ int main(){
 	scanf("%d",&m);
 	
 	for(int i=m;i<o;i++){
-		arr[i]=arr[i]+1;
+		arr[i]=arr[i+1];
 	}
 	
 	for(int i=0;i<o-1;i++){
