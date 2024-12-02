@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
 	int o=0,arr[100],n,i=0,m,num,check=0;
 	while(o!=6){
